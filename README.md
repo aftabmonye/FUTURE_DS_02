@@ -77,7 +77,7 @@ The dashboard is fully interactive with slicers and KPI cards, enabling users to
 
 > Add your dashboard screenshot here.
 
-![Dashboard Preview](Dashboard%20Preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ---
 
